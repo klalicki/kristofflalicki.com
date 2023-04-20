@@ -1,5 +1,5 @@
 /* font imports here */
-@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,600;1,400;1,600&family=IBM+Plex+Serif:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 *,
 *::before,
 *::after {
@@ -35,7 +35,7 @@ body {
 /* This line sets the font for larger headers (h1-h3), including the site title*/
 :root {
   font-size: 110%;
-  font-family: "IBM Plex Sans", sans-serif;
+  font-family: "Work Sans", sans-serif;
 }
 
 img {
@@ -75,12 +75,12 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: "IBM Plex Serif", serif;
+  font-family: "Work Sans", serif;
 }
 
 h5,
 h6 {
-  font-family: "IBM Plex Sans", sans-serif;
+  font-family: "Work Sans", sans-serif;
 }
 
 h1,

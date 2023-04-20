@@ -7,15 +7,15 @@
 /* font imports here */
 //copy and paste these from Google Fonts, Adobe Fonts, etc.
 // you only need to copy the '@import' line; if the code has <style> tags, delete them.
-@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,600;1,400;1,600&family=IBM+Plex+Serif:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 
 /* This line sets the default font for most text, including the body text, navigation, and the smaller headers (h4-h6) */
 // You can copy this from Google Fonts as well - this will be the 'font-family' value;
-$theme-font-stack-main: "IBM Plex Sans", sans-serif;
+$theme-font-stack-main: "Work Sans", sans-serif;
 
 /* This line sets the font for larger headers (h1-h3), including the site title*/
 // You can copy this from Google Fonts as well - this will be the 'font-family' value;
-$theme-font-stack-headers: "IBM Plex Serif", serif;
+$theme-font-stack-headers: "Work Sans", serif;
 
 // This line sets the base font size for desktop
 // default is 110%
